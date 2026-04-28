@@ -89,7 +89,5 @@ In an era of global volatility, static logistics are obsolete. RouteZ transforms
 
 ---
 
-## ⚖️ License
-Distributed under the MIT License. See `LICENSE` for more information.
 
 **RouteZ — Redefining the Logistics Vector.**
